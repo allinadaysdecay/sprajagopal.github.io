@@ -1,0 +1,45 @@
+p {
+font-family:"Droid Sans";
+color: black;
+font-size: 12pt;
+text-align: justify;
+}
+
+.sitetitle{
+color: white;
+font-size: 40pt;
+background-color:black;
+width: 100%;
+text-align: center;
+padding-top: 5px;
+height: 80px;
+}
+
+.posttitle {
+color: blue;
+font-size:20pt;
+font-weight: bold;
+}
+
+.postbody {
+background-color: #ffffff;
+}
+
+.postslist {
+max-width: 600px;
+float: left;
+}
+
+ul {
+list-style-type: none;
+}
+
+.sidebar{
+float: left;
+width: 300px;
+}
+
+p.postdate{
+font-weight: bold;
+font-size: 13pt;
+}

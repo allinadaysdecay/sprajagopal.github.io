@@ -1,56 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="description" content = "Personal academic blogging site">
-<title> SP Rajagopal</title>
-<link rel="stylesheet" href="/css/css-conf.css">
-</head>
-<body>
-<div class="sitetitle">
-title
-</div>
+---
+title: Displaying matlab contribution in Google Sites
+layout: post
+---
 
-<div class="container">
-
-
-<div class="sidebar">
-<h3>Contact:</h3>
-<p>
-<b>Address:</b>
-<br>
-B223, Umiam Hostel,
-<br>
-Indian Institute of Technology Guwahati,
-<br>
-Assam - 781039, India.
-<br>
-<br>
-<b>Email:</b>
-<br>
-<a href="mailto:s.rajagopal@iitg.ernet.in">s.rajagopal@iitg.ernet.in</a>
-<br>
-<a href="mailto:sprajagopal1992@gmail.com">sprajagopal1992@gmail.com</a>
-<br>
-<br>
-<b>Phone: </b>(91)9085403293
-</p>
-</div>
-
-<div class="postslist">
-<ul>
-
-<li>
-<div class="posttitle">
-<a href="/2014/01/29/display-matlab-contrib/">
-Displaying matlab contribution in Google Sites
-</a>
-</div>
-<div class="postbody">
 <p>Many professors and students use google sites for their academic site. It might be required to display your mathworks profile in your google site. The older method to embed another webpage was to simply use the IFrame gadget from the Insert menu. Currently, the iframe elements do not work in the google sites as a security measure. So I was googling around to find a way to show my mathworks contribution in my google site. I couldn't find any.</p>
-
-
-<p> <p><b>Step 1:</b> In the <a href="http://www.mathworks.in/matlabcentral/fileexchange/?term=authorid:319814">mathworks fileexchange page</a>, you'll see a subscribe button on the top right. Clicking on this gives an RSS feed of the files submitted to mathworks. Copy this RSS link.</p>
+ <p><b>Step 1:</b> In the <a href="http://www.mathworks.in/matlabcentral/fileexchange/?term=authorid:319814">mathworks fileexchange page</a>, you'll see a subscribe button on the top right. Clicking on this gives an RSS feed of the files submitted to mathworks. Copy this RSS link.</p>
 <br>
 <a href="https://sites.google.com/site/sreeprasannar/blog/howtodisplayyourmathworkscontributioningooglesites/screenshot.128.jpg?attredirects=0" imageanchor="1"><img alt="Mathworks RSS feed button" src="https://sites.google.com/site/sreeprasannar/blog/howtodisplayyourmathworkscontributioningooglesites/screenshot.128.jpg?height=242&amp;width=400" height="242" border="0" width="400"></a>
 <br>
@@ -59,16 +13,4 @@ Displaying matlab contribution in Google Sites
  <p><b>Step 3:</b> Search for 'RSS'. There was only one gadget when I tried. Nevertheless, choose a gadget that can show a RSS feed. I use <a href="http://www.gstatic.com/sites-gadgets/rss-sites/rss_sites.xml">this garget.</a></p>
  <p><b>Step 4:</b> Add the mathworks RSS link into the gadget properties dialog.</p>
  <p>You are done. This will show a list of files in the mathworks RSS. Interested visitors can click on a script to reach the official mathworks page where the script is stored.</p>
- <p>This is <a href="https://sites.google.com/site/sreeprasannar/mathworks">my mathworks page</a> with the RSS feed in this site.</p></p>
-
-</div>
-</li>
-
-</ul>
-</div>
-
-</div>
-
-</body>
-</html>
-
+ <p>This is <a href="https://sites.google.com/site/sreeprasannar/mathworks">my mathworks page</a> with the RSS feed in this site.</p>

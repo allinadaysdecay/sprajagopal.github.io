@@ -1,0 +1,25 @@
+p {
+color: black;
+font-size: small;
+}
+
+h1 {
+color: black;
+font-size: x-large;
+}
+
+.subheading {
+color: black;
+font-size: medium;
+}
+
+.posttitle {
+
+color: blue;
+font-size:large;
+
+}
+
+.postbody {
+background-color: #ffffff;
+}

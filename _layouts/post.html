@@ -1,0 +1,14 @@
+{% include header.html %}
+{% include sidebar.html %}
+<div class="postslist">
+<div class="posttitle">
+<a href="{{ post.url }}">
+{{ page.title }}
+</a>
+</div>
+<p class="postdate">
+{{ page.date|date_to_long_string }}
+</p>
+{{ content }}
+</div>
+{% include footer.html %}
