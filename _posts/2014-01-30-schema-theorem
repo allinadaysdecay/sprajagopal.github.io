@@ -1,0 +1,22 @@
+---
+layout: post
+title: Epiphanies during Evolutionary Computing lectures
+---
+
+<p>
+The very subject of optimization and the various methods in it is intriguing and enough to keep one absorbed for days. Evolutionary computing is my elective this semester and I am impressed. I have only barely started but I'm already hooked like a junkie on weed.
+</p>
+<!--more-->
+<p>
+If you have absolutely no idea what evolutionary computing is about, allow me to blow your mind. You see, Lawrence J. Fogel, a genius whose very first advent in research was a gift to the world, namely evolutionary computation. If you haven't guessed, the field of evolutionary computing deals with using the biological principles of evolution and Darwin's rules of selection to solve mathematical problems.
+<br>
+Take your time.
+<br>
+So you see the elegance of this principle lies in the fact it has to work because evolution works. It is a tribute to the natural system around us, a bow to the intricate mathematical rules that so tacitly governs all of us. Why try hard to develop new abstract math systems when nature has already done the work for us?
+<br>
+I was sitting in class, waiting for the next mindblowing thing to happen and of course, it did. Schema theorem, which is a foundational and basic mathematical principle of evolutionary computing, was being taught and it was quite interesting. What was more interesting was how the analogy went both ways - nature to math, math to nature.
+<br>
+This is what the Schema Theorem says:
+<br>
+<b><i>Short, low-order schemata with above-average fitness increase exponentially in successive generations.</i></b>
+<br> Let's take this word by word. Well, of course, the first question would be the very name <i>Schema</i>. What exactly is that?
