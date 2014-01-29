@@ -1,6 +1,5 @@
 p {
 font-family:"Droid Sans";
-color: black;
 font-size: 12pt;
 text-align: justify;
 }
@@ -27,16 +26,23 @@ background-color: #ffffff;
 
 .postslist {
 max-width: 600px;
-float: left;
+margin-left: 350px;
 }
 
-ul {
+ul,li {
 list-style-type: none;
+padding-left: 0;
 }
 
 .sidebar{
+position: fixed;
+color: black;
 float: left;
 width: 300px;
+background-color:#BDBDBD;
+padding-left: 10px;
+margin-top: 10px;
+height: 400px;
 }
 
 p.postdate{
