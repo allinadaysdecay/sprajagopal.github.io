@@ -11,8 +11,9 @@ layout: default
 </a>
 </div>
 <div class="postbody">
-{{ post.content }}
+{{ post.excerpt }}
 </div>
+{% include post_footer.html %}
 </li>
 {% endfor %}
 </ul>

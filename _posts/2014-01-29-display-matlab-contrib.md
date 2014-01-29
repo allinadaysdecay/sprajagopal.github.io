@@ -4,6 +4,7 @@ layout: post
 ---
 
 <p>Many professors and students use google sites for their academic site. It might be required to display your mathworks profile in your google site. The older method to embed another webpage was to simply use the IFrame gadget from the Insert menu. Currently, the iframe elements do not work in the google sites as a security measure. So I was googling around to find a way to show my mathworks contribution in my google site. I couldn't find any.</p>
+<!--more-->
  <p><b>Step 1:</b> In the <a href="http://www.mathworks.in/matlabcentral/fileexchange/?term=authorid:319814">mathworks fileexchange page</a>, you'll see a subscribe button on the top right. Clicking on this gives an RSS feed of the files submitted to mathworks. Copy this RSS link.</p>
 <br>
 <a href="https://sites.google.com/site/sreeprasannar/blog/howtodisplayyourmathworkscontributioningooglesites/screenshot.128.jpg?attredirects=0" imageanchor="1"><img alt="Mathworks RSS feed button" src="https://sites.google.com/site/sreeprasannar/blog/howtodisplayyourmathworkscontributioningooglesites/screenshot.128.jpg?height=242&amp;width=400" height="242" border="0" width="400"></a>
