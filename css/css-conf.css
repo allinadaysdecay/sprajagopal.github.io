@@ -49,3 +49,7 @@ p.postdate{
 font-weight: bold;
 font-size: 13pt;
 }
+
+a.no-underline {
+text-decoration:none;
+}
