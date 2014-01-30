@@ -53,3 +53,7 @@ font-size: 13pt;
 a.no-underline {
 text-decoration:none;
 }
+
+a.postfooter {
+color: red;
+}
