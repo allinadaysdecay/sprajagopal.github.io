@@ -1,5 +1,6 @@
 {% include header.html %}
-{% include sidebar.html %}
+<div class="center-section">
+{% include navbar.html %}
 <div class="postslist">
 <div class="posttitle">
 <a href="{{ post.url }}">
@@ -10,5 +11,6 @@
 {{ page.date|date_to_long_string }}
 </p>
 {{ content }}
+</div>
 </div>
 {% include footer.html %}
