@@ -1,0 +1,22 @@
+---
+layout: default
+title: archives
+---
+<div class= "archives-posts-list">
+  <table>
+    {% for post in site.posts %}
+    <tr>
+      <td>
+	<p class="archives-post-date">
+	  {{ post.date|date_to_long_string }}
+	</p>
+      </td>
+      <td>
+	<a class="archives-post-title" href="{{ post.url }}">
+	  {{ post.title }}
+	</a>
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>

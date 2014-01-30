@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
+
 <div class="postslist">
   <ul>
     {% for post in site.posts limit: 5 %}
-     <li>
+    <li>
       <a class="posttitle" href="{{ post.url }}">
 	{{ post.title }}
       </a>
@@ -13,7 +14,7 @@ layout: default
       </div>
       <p>
 	{% include post_footer.html %}
-	</p>
+      </p>
     </li>
     {% endfor %}
   </ul>
