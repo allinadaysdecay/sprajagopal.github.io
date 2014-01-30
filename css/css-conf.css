@@ -1,3 +1,7 @@
+html {
+font-family:"DroidSans";
+}
+
 p {
 font-family:"DroidSans";
 font-size: 12pt;
@@ -101,6 +105,12 @@ color: white;
 .center-section {
 margin-left: 350px;
 max-width: 600px;
+}
+
+.footer-copyright {
+font-size: 10pt;
+text-align: right;
+margin-right: 30%;
 }
 
 /* fix fonts */
