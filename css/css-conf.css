@@ -57,3 +57,23 @@ text-decoration:none;
 a.postfooter {
 color: red;
 }
+
+.archives-posts-list {
+margin-left: 350px;
+}
+
+
+.archives-post-title {
+color: blue;
+font-size:12pt;
+font-weight: bold;
+}
+
+.archives-post-date {
+font-style: italic;
+font-size: 12pt;
+}
+
+td {
+padding-right: 10px;
+}
