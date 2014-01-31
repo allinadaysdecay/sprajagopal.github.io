@@ -8,7 +8,7 @@ I've always prided myself in being fluid when it comes to programming languages.
 
 <p>
 But I'll admit this. I'm a hack. I'm quick, sure, but I only get the essentials and hack away to make it work. Whatever it is.</p>
-
+<!--more-->
 <p>
 I have found that engineering students usually shun away from programming unless it becomes absolutely necessary. I have seen course drops just because they involve assignments to be done in MATLAB or C or something similar.</p>
 
