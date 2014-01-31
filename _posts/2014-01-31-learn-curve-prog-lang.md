@@ -32,11 +32,13 @@ Go on. Look through my MathWorks page before you come back to this post. </p>
 <p> 
 Three things that are highly essential during the initial days of a new programming language:</p>
 
+<b>
 <ul>
 <li> A working internet connection (low speed, high speed, anything works) </li>
 <li> A familiar text editor </li>
 <li> Lots and lots of coffee </li>
 </ul>
+</b>
 
 <p>
 The last one is not completely necessary but it definitely doesn't hurt. </p>
@@ -76,11 +78,12 @@ Once you are through with the documentation, start writing your own algorithm in
 
 <p> Some other things you should almost always use, if you want to get the code writing process done quickly: </p>
 
+<blockquote>
 <ul>
-<li> A GUI debugger. Command-line is great for the code writing and initial testing but a GUI debugger will show you all the variable values and you can figure out mistakes quickly. You'll also be able to step in, step out quicker than typing out the commands in GDB. But mostly you'll be able to see the variables change and catch mistakes quicker than in a command-line debugger.</li>
-
-<li> Emacs for the code writing. This is more than a text editor. It is a way of life. It has a steep learning curve but once you have the hang of it, your productivity will go up by 50%. I promise. </li>
+<li> <b>A GUI debugger.</b> Command-line is great for the code writing and initial testing but a GUI debugger will show you all the variable values and you can figure out mistakes quickly. You'll also be able to step in, step out quicker than typing out the commands in GDB. But mostly you'll be able to see the variables change and catch mistakes quicker than in a command-line debugger.</li>
+<li> <b>Emacs for the code writing.</b> This is more than a text editor. It is a way of life. It has a steep learning curve but once you have the hang of it, your productivity will go up by 50%. I promise. </li>
 </ul>
+</blockquote>
 
 <p>
 Well, that's pretty much it. I should probably put up a specific example. I'll keep that in mind when I start with a new language the next time. </p>
