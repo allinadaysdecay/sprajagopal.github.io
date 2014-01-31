@@ -54,4 +54,36 @@ Create a Dropbox folder, initialize a git, whatever makes you feel safe about yo
 Now, start writing a "hello world" program. Search through the internet, find a basic tutorial, skim over the details about variable types, file extensions and get to the core. They're all blah, blah, same old, same old. </p>
 
 <p>
-The basic tutorials usually deal with printing out data to the stdout and storing variables. They also cover the arithmetic calculations part, if that's possible. </p>
+The basic tutorials usually deal with printing out data to the stdout and storing variables. They also cover the arithmetic calculations part, if that's possible. But what we really want in research is more advanced, more computationally heavy stuff. Once you get the basics of the language - the printing out, the storing stuff, the basic computation and function definitions - once this is done, quickly download the library/ module/ toolbox which concerns your main research work.</p>
+
+<p>
+Say it's DEAP for Python. It is an evolutionary computing library for Python and it is a free alternative to MATLAB. Now head on to the site, <a href="http://code.google.com/p/deap/">download DEAP</a>, install it. Make sure you have the dependencies installed - here, it is scipy, numpy, matplotlib, etc. </p>
+
+<p> 
+Start with the <a href="http://deap.gel.ulaval.ca/doc/default/index.html">documentation</a> for the specific library. Don't skim over the details about the variable types and basic stuff. I have found that this is a highly specific feature when it comes to custom libraries and you should read the documentation very carefully. At least the initial parts. It always happens that you may not need all the advanced features available in the module.</p>
+
+<p>
+Usually, the tutorials available in the project page of the required module gives you a model code to start with. Unless you are really desperate, don't download it. Start from scratch. Make sure you understand every line you write. It saves you a lot of debugging time later.</p>
+
+<p> 
+Let's be clear on one thing: you're not interested in the code at all, other than for the fact that it provides you results in research. So the stuff about the memory usage and speeding up is hardly necessary unless you are a really crappy coder. Mostly, libraries that are for computation - like FEM, CFD and convex optimization - they write documentations keeping in mind a average programmer from a stream unrelated to computer science. </p>
+
+<p>
+Make sure you understand the terms provided in the documentation. If you find it difficult to understand, you're probably not strong with the theory of the subject. Without the theoretical base, the programming part will be a failure. I cannot stress this enough. I once tried to use the CVXOPT library for Python without completely understanding convex optimization - a waste of two weeks.</p>
+
+<p>
+Once you are through with the documentation, start writing your own algorithm in the language. Don't worry too much about memory utilization in the beginning days. You'll eventually become efficient when the need arises. </p>
+
+<p> Some other things you should almost always use, if you want to get the code writing process done quickly: </p>
+
+<ul>
+<li> A GUI debugger. Command-line is great for the code writing and initial testing but a GUI debugger will show you all the variable values and you can figure out mistakes quickly. You'll also be able to step in, step out quicker than typing out the commands in GDB. But mostly you'll be able to see the variables change and catch mistakes quicker than in a command-line debugger.</li>
+
+<li> Emacs for the code writing. This is more than a text editor. It is a way of life. It has a steep learning curve but once you have the hang of it, your productivity will go up by 50%. I promise. </li>
+</ul>
+
+<p>
+Well, that's pretty much it. I should probably put up a specific example. I'll keep that in mind when I start with a new language the next time. </p>
+
+<p> 
+Go on, then. Start hacking your way through a programming language and give a heart attack to the purists.</p>
