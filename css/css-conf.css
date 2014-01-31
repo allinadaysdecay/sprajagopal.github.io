@@ -1,16 +1,16 @@
 html {
-font-family:"DroidSans";
+font-family:"DroidSans",Sans-Serif;
 }
 
 p {
-font-family:"DroidSans";
+font-family:"DroidSans",Sans-Serif;
 font-size: 12pt;
 text-align: justify;
 text-indent: 20px;
 }
 
 .sitetitle{
-font-family:"DroidSans";
+font-family:"DroidSans",Sans-Serif;
 color: white;
 font-size: 40pt;
 background-color:black;
@@ -126,5 +126,3 @@ width: 100%;
 	url('fonts/DroidSans-webfont.ttf') format('truetype');
 
 }
-
-
