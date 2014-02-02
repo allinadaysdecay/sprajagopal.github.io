@@ -116,6 +116,12 @@ padding-top:  500px;
 width: 100%;
 }
 
+
+#disqus_thread {
+margin-left: 350px;
+max-width: 600px;
+}
+
 /* fix fonts */
 
 @font-face {
